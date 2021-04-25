@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on [Bank VTB](https://vtb.ru)
-- 🇮🇱🇷🇺 I live in Russia, Moscow and Israel, Tel-Aviv
+- 🇮🇱 I live in Israel, Tel-Aviv and sometimes visit Moscow, Russia
 - 🤖  Most of the time I'm writing on Go. Sometimes TypeScript or Dart, when I need to
 - 🌱 I am currently learning Scala and Kotlin
 - 🚀 I am trying to run my pet projects but I am running out of time
