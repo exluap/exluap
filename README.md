@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Nick!
 
 
-- 🔭 Work in Orbi & CEO of [Beaser.Club](https://beaser.club)
+- 🔭 Work in Orbi & CEO of [EventoMore](https://eventomore.ru/)
 - 🇮🇱 I live in Israel, Tel-Aviv and sometimes visit Moscow, Russia
 - 🤖  Most of the time I'm writing on Go. Sometimes TypeScript or Dart, when I need to
 - 🌱 I am currently learning Scala and Kotlin
